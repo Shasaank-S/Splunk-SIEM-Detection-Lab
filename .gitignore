@@ -1,0 +1,17 @@
+# Operating System Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Temporary & Editor Files
+*.tmp
+*.bak
+*~
+.idea/
+*.swp
+
+# Local Documentation & Drafts (Private)
+docs/
+config/
