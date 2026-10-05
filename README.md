@@ -1,4 +1,4 @@
-﻿# Segmented SOC Home Lab: Splunk + pfSense + Suricata
+﻿# Enterprise SOC & Splunk SIEM Detection Lab
 
 ![Splunk](https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white)
 ![Suricata](https://img.shields.io/badge/Suricata_IDS-E4002B)
